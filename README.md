@@ -1,7 +1,5 @@
 # BMS-for-Formula-Manipal
-By Vaibhav Sanjay Agarwal 
-
-***This work is the continuation of intial work on BMS done by ECS Seniors at Formula Manipal***
+By Sanskar, Vaibhav
 
 BMS is responsible for monitoring, controlling, and optimizing the performance, safety, and
 longevity of the Accumulator.
